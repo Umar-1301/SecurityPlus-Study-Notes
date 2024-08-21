@@ -30,21 +30,6 @@ RBAC ( role based access control ) - Access determined by users roles within an 
 ABAC ( attribute based access control ) - Based on attributes rather than just role, for example department and location, you cannot access example.file if you are out of site, time of day, data sensitivity
 GBAC ( group based access control ) - Granting or denying access to groups, departments, job function, project team
 
-# Identification
-ID comes in many shapes, but the purpose is for secure access management, accounting for the user and esuring they have the correct authorisation
-ID types:
-
-* Name
-* Card
-* Certificate
-* Digital Signature
-* Keys
-* Tokens
-
-Lets talk about certificates and keys. Keys are generate for a new user. These are created in pairs for what is called asymetric enryption.
-It is composed of a public key and a private key. The keys are like a block of text. 
-Within Microsoft Azure, they offer symetric key generation as a service. These are encrypted with AES. Else, this can also be done through OpenSSL, PowerShell etc
-
 
 
 
