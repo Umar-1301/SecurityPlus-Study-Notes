@@ -4,7 +4,7 @@
 
 
 There are 4 main categories of controls: - Technical - Admin - Physical - Operational
-Simple definition of Control is to safeguard assets, protect sensitive information, meet business security objectives, and prevent security breaches. 
+Simple definition of Control is to safeguard assets, protect sensitive information, meet business security objectives, and prevent security breaches
 With that said controls belong to one or many categories, serving different aspects of an organisation
 
 Technical - Technology based controls to safeguard assets on the network - Firewall, Antivirus, IDS
