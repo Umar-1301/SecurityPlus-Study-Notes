@@ -1,9 +1,9 @@
-### Account Access Controls
+# Account Access Controls
 
 user account - limited in access. cannot install, only perform tasks that admin allows for a user account to do
 Admin - create, delete and handle privileges
 
-# Types of admin
+### Types of admin
 
 Privilege account - Type of admin account handling privilege. It is good practice to have different admin accounts for the various admin purposes, so if one is commpromised it doesn't encompass the whole thing
 Service - Running services
