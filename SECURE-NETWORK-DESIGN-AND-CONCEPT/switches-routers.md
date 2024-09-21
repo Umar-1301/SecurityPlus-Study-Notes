@@ -5,4 +5,7 @@ switches - internal, connects the LAN, CAM containing mac address, shows which h
 
 
 Port security - ports turned off by default
-802.1x - certificate authentication before connect, used in radius
+802.1x - certificate authentication before connect, physical wired or wireless connections whereas RAS is for VPN
+loop protection - STP prevents loops, switch aggregation
+BDPU - defends layer 2 STP
+MAC filtering - white and black list
